@@ -19,6 +19,11 @@ module.exports = {
           timberwolf: '#DDD9CE ',
           alabaster: ' #EFECE9'
         },
+        animation: {
+          'bounce-slow': 'bounce 3s linear infinite',
+          'pulse-slow': 'pulse 3s linear infinite',
+          'ping-slow': 'ping 5s linear infinite',
+        }
       },
   },
   plugins: [],
