@@ -23,6 +23,9 @@ module.exports = {
           'bounce-slow': 'bounce 3s linear infinite',
           'pulse-slow': 'pulse 3s linear infinite',
           'ping-slow': 'ping 5s linear infinite',
+        },
+        backgroundImage: {
+          'sewing': "url('/static/Images/bg.jpg')",
         }
       },
   },
